@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NAVEED SHAH</h1>
+<h1 align="center">Hi 👋, I AM SYED NAVEED SHAH</h1>
 <h3 align="center">A passionate Web Developer & Tech Enthusiast from Pakistan</h3>
 
 <p align="center">
